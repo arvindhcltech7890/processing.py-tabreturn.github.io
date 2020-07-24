@@ -5,7 +5,7 @@
 Accompanying lessons/tutorials:  
 [Processing.py in Ten Lessons](https://tabreturn.github.io/#processing-reverse)
 
-If you're looking for my book examples and solutions, use this link:
+If you're looking for my book examples and solutions, use this link:  
 [https://github.com/tabreturn/processing.py-book](https://github.com/tabreturn/processing.py-book)
 
 <img src="screenshot.png" />
